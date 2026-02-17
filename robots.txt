@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://westnewyorkplumbingco.com/sitemap.xml
